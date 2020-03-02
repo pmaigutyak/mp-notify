@@ -1,5 +1,5 @@
 
-Django admin app.
+Django notification popups app.
 
 ### Installation
 
